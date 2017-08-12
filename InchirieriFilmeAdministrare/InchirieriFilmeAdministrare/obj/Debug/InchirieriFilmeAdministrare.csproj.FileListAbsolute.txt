@@ -1,0 +1,21 @@
+c:\users\rog\documents\visual studio 2013\Projects\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.csprojResolveAssemblyReference.cache
+c:\users\rog\documents\visual studio 2013\Projects\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.Form1.resources
+c:\users\rog\documents\visual studio 2013\Projects\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.Properties.Resources.resources
+c:\users\rog\documents\visual studio 2013\Projects\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.csproj.GenerateResource.Cache
+c:\users\rog\documents\visual studio 2013\Projects\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\bin\Debug\InchirieriFilmeAdministrare.exe
+c:\users\rog\documents\visual studio 2013\Projects\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\bin\Debug\InchirieriFilmeAdministrare.pdb
+c:\users\rog\documents\visual studio 2013\Projects\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.exe
+c:\users\rog\documents\visual studio 2013\Projects\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.pdb
+c:\users\rog\documents\visual studio 2013\Projects\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.FormMainPanel.resources
+C:\Users\ROG\Documents\Visual Studio 2013\Projects\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.FormAddMovie.resources
+C:\Users\Iulian\Desktop\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\bin\Debug\InchirieriFilmeAdministrare.exe
+C:\Users\Iulian\Desktop\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\bin\Debug\InchirieriFilmeAdministrare.pdb
+C:\Users\Iulian\Desktop\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.Form1.resources
+C:\Users\Iulian\Desktop\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.FormAddMovie.resources
+C:\Users\Iulian\Desktop\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.FormMainPanel.resources
+C:\Users\Iulian\Desktop\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.Properties.Resources.resources
+C:\Users\Iulian\Desktop\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.csproj.GenerateResource.Cache
+C:\Users\Iulian\Desktop\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.exe
+C:\Users\Iulian\Desktop\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.pdb
+C:\Users\Iulian\Desktop\git\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.exe
+C:\Users\Iulian\Desktop\git\InchirieriFilmeAdministrare\InchirieriFilmeAdministrare\obj\Debug\InchirieriFilmeAdministrare.pdb
